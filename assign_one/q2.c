@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-int y[14];
+int y[15];
 int max=0;
 printf("enter 15 numbers");
 for(int i=0;i<=14;i++)
