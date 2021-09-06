@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-int y[19];
+int y[20];
 int count=0;
 printf("enter 20 numbers");
 for(int i=0;i<=19;i++)
